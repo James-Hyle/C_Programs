@@ -1,0 +1,26 @@
+CS253 Project 5: myps
+
+Grade: /100
+
+Overall Comments:
+
+-Submission:
+    - Prerequisite: make can be executed without errors in the program
+    - no compiled files or test results are included in the submission      [ 5 points]
+
+
+Documentation:
+	- README.md is completed:                                               [10 points]
+    - each c/h file is properly documented with comments.                   [ 5 points]
+
+
+Functionality:
+    - The project compiles without warnings using the provided Makefile     [10 points]
+
+    - proc-entry-test works:   (assessed in checkpoint)         [15 points]
+    - myps prints usage statement for incorrect input           [ 5 points]
+    - myps implements the zombie filter feature                 [ 5 points]
+    - myps sorts properly depending upon -p or -c options       [ 5 points]
+    - -s option implemented and works                           [10 points]
+    - myps works properly without any errors or leaks           [30 points]
+

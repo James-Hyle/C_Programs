@@ -1,0 +1,35 @@
+CS253 Project 3: List
+
+Grade: /100
+
+Overall Comments:
+
+-Submission:
+    - Prerequisite: The random-test.c program compiles without errors
+    - no compiled files or test results are included in the submission      [5 points]
+
+
+Documentation:
+	- README.md is completed:                                               [10 points]
+    - each C file is properly documented with comments. 
+        The header files provide proper documentation. this requirement
+        is for inline comments.                                             [5 points]
+
+
+Functionality:
+    - The project compiles without warnings using the provided Makefile     [10 points]
+
+    - string-test passes:   (assessed in checkpoint 1)          [ 5 points]
+    - List.c Implemented:   (assessed in checkpoint 2)          [10 points]
+    - simple-test.c runs:                                       [ 5 points]
+    - list-test.c and Andre's list-test passes:                 [25 points]
+    - All test programs produce no errors when run in valgrind  [25 points]
+
+
+Extra Credit: 
+    - ListAdd implemented in O(1) time                      [1 point]
+    - ListRemove implemented in O(1) time                   [1 point]
+    - Different sorting algorithm used                      [1 point]
+    - Radix Sort used                                       [5 points]
+    - Radix sort with dynamic array allocation used         [5 points]
+

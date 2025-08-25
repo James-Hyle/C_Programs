@@ -1,0 +1,29 @@
+CS253 Project 4: myls
+
+Grade: /100
+
+Overall Comments:
+
+-Submission:
+    - Prerequisite: The random-test.c program compiles without errors
+    - no compiled files or test results are included in the submission      [ 5 points]
+
+
+Documentation:
+	- README.md is completed:                                               [10 points]
+    - each c/h file is properly documented with comments.                   [ 5 points]
+
+
+Functionality:
+    - The project compiles without warnings using the provided Makefile     [10 points]
+
+    - simple-test passes:   (assessed in checkpoint)            [15 points]
+    - List.c uses qsort:                                        [ 5 points]
+    - file-info.h has documentation completed                   [10 points]
+    - myls prints usage statement for incorrect input           [ 5 points]
+    - myls implements D s and t options                         [ 5 points]
+    - myls works properly on a variety of directories           [30 points]
+
+Extra Credit:
+    - project configured to create a shared library for List and is used to compile myls [5 points]
+

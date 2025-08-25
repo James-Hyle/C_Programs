@@ -1,0 +1,22 @@
+CS253 Project 0: Scavenger Hunt
+
+Grade: /30
+
+Overall Comments:
+
+-Submission:
+
+	-Compiles without unexplained warnings:  [10 points]
+
+
+Documentation:
+	-README.md with personal goal: [10 points]
+
+
+Functionality: [10 points]
+	-Output matches the provided output in expected-out.txt:
+
+	-Each scavenger task completed:
+
+	
+

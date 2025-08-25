@@ -1,0 +1,27 @@
+CS253 Project 1: Fun with Bits
+
+Grade: /100
+
+Overall Comments:
+
+-Submission:
+    -Prerequisite: program compiles with no errors! endian executable is produced.
+    -endian.c exists [10 points]
+    -no compiled files or test results are included in the submission [5 points]
+
+
+Documentation:
+	-README.md is completed: [10 points]
+    -endian.c is properly documented with comments for each function [10 points]
+
+
+Functionality: [65 points]
+    -The project compiles without warnings using the provided Makefile [10 points]
+
+    - Basic command-line interface: [10 points]
+    - Print bits function:          [15 points]
+    - Endian conversion:            [25 points]
+    - Output formatting:            [5  points]
+
+	
+
